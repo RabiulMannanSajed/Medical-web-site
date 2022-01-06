@@ -1,0 +1,66 @@
+#logo-imge{
+    height: 150px;
+    width: 150px;
+}
+.icon-img{
+    height: 30px;
+}
+.ctb{
+    border-radius: 10px;
+    text-decoration: none;
+   background-color: lightseagreen;
+}
+
+
+.carousel-item{
+    background-color: lightskyblue;
+    height: 500px;
+}
+
+   /* work of third section */
+
+.termoinal{
+    display: flex;
+    padding: 7% 15%;
+    text-align: center;
+    color: linen;
+}
+.img-hero{
+    position:relative;
+    bottom: 40%;
+}
+.img-efa{
+    width: 500px;
+    position:relative;
+    bottom: 10%;
+}
+
+
+/* CSS code of CODEPLAY */
+.third-section{
+    margin: 5% 20%;
+    text-align: center;
+}
+.card{
+    background-color: #59c1e4;
+    margin-bottom: 10px;
+}
+
+/* footer section  */
+li{
+    list-style-type: none;
+}
+.footer-div{
+    
+   margin: 5% 10% 2% 20%;
+    display: flex;
+}
+.last-section{
+    background-color: beige;
+}
+.footer-img{
+    width: 40px;
+}
+.footer{
+    margin: 0% 5% 0% 0%;
+}
